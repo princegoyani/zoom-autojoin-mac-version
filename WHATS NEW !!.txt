@@ -1,0 +1,7 @@
+2.0(beta)
+--> TIMER IS NOW AVAILABLE !!
+--> FIX OTHER BUGS.
+
+2.1(beta)
+-->. bug fixed in source file.
+--> requirement file is ready to use !!

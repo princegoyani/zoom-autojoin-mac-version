@@ -1,0 +1,27 @@
+THIS IS THE SOFTWARE BY PRINCE GOYANI..
+
+SOME OF THE REQUIREMENTS : 
+
+1)Python must be installed on Your PC.
+
+2)Zoom must be installed on your pc.
+
+3)some of the python requirement you willl need to install:
+  you can check it by :
+		1)open run (by windows + r )
+		2)type cmd and press enter
+		2)One by one copy and paste in cmd (As Admin):
+			->python -m pip install pip
+			->python -m pip install --upgrade
+			->python -m pip install keyboard
+			->python -m pip install pyautogui
+	       (optinal)->python -m pip install time
+			->python -m pip install datetime
+			->python -m pip install openpyxl
+
+*** IF ANY PROBLEM:
+		 -OPEN ZOOM SOFTWARE ( MAIN PAGE ) (recommended)
+		 -DON't SIGN IN (recommended) 
+
+-- if any problem with program contact
+					-PRINCE GOYANI
